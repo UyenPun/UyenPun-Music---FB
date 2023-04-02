@@ -1,0 +1,18 @@
+.button-play {
+  position: relative;
+}
+button {
+  position: absolute;
+  top: 20px;
+  left: 10px;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: pink;
+  transition: 1s linear;
+}

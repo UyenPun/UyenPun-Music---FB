@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  /* background: orange; */
+  background-image: url("../img/334950664_1408315593242580_2177644582041897772_n.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+canvas {
+  position: absolute;
+}
